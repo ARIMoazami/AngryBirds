@@ -1,0 +1,3 @@
+X:/UNI/GIC++/angry-birds-2020-mooseman48/cmake-build-debug/CMakeFiles/AngryBirdsSFML.dir
+X:/UNI/GIC++/angry-birds-2020-mooseman48/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/UNI/GIC++/angry-birds-2020-mooseman48/cmake-build-debug/CMakeFiles/rebuild_cache.dir
